@@ -23,6 +23,10 @@
 
 	- Create run configurations:
 
+	- Observe Dashboard for Both Replicas:
+
+
+
 ## Client Side
 ----------------
 
