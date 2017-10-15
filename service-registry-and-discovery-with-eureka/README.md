@@ -15,7 +15,7 @@
 
 ![Access Eureka Dashboard](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/pristine%20Eureka%20server.PNG)
 
-- Running Redundant Eureka Servers
+- Running Redundant Eureka Servers:
 
 	- Modify hosts file:
 
@@ -23,11 +23,17 @@
 	
 	- Enable Spring profiles:
 
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/ereka%20server%20profiles.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/ereka%20server%20profiles.PNG)
+
 	- Create run configurations:
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/ereka%20server%20profiles.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/ereka%20server%20profiles.PNG)
 
 	- Observe Dashboard for Both Replicas:
 
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/replica%20%231.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/replica%20%231.PNG)
 
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/replica%20%232.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/replica%20%232.PNG)
 
 ## Client Side
 ----------------
