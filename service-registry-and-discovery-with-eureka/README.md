@@ -18,6 +18,8 @@
 - Running Redundant Eureka Servers
 
 	- Modify hosts file:
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/hosts.png](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/hosts.png)
 	
 	- Enable Spring profiles:
 
