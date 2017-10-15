@@ -50,7 +50,7 @@ Client Side
 
 - Observe the Dashboard:
 
-![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/multi-service%20dashboard.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/multi-service%20dashboard.PNG
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/multi-service%20dashboard.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/multi-service%20dashboard.PNG)
 
 - Hit /serviceInfo endpoint on Eureka-client-2:
 
