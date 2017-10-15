@@ -86,7 +86,9 @@ Communications among peers within Eureka server cluster is described [here](http
 
 Configuring Spring Cloud Eureka on AWS is documented [here](https://stackoverflow.com/questions/42547845/spring-cloud-netflix-eureka-aws-deployment) and [here](https://www.slideshare.net/ToddMiller34/spring-cloud-into-production).
 
-Eureka vs Zookeeper [comparison](https://tech.knewton.com/blog/2014/12/eureka-shouldnt-use-zookeeper-service-discovery/).
+Eureka vs Zookeeper comparison: [here](https://tech.knewton.com/blog/2014/12/eureka-shouldnt-use-zookeeper-service-discovery/) and [here](https://groups.google.com/forum/#!topic/consul-tool/bw6q52acNjM).
+
+Consul vs Eureka comparison [https://www.consul.io/intro/vs/eureka.html](https://www.consul.io/intro/vs/eureka.html) and [here](https://github.com/hashicorp/consul/issues/1295).
 
 
 
