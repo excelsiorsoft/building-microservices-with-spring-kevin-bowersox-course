@@ -2,7 +2,7 @@
 
 Enable Eureka Server:
 
-![Enable Eureka Server](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/Enabling%20Eureka.PNG)
+![Enable Eureka Server](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/Enabling%20Eureka.png)
 
 Start Eureka Server:
 
