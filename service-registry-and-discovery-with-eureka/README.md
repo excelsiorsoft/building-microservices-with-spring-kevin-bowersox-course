@@ -83,6 +83,8 @@ Client Side
 
 # Extra Curriculum Reading
 
+Overview of different service discovery mechanisms. [here](http://daviddawson.me/getting/started/with/microservices/2015/06/10/service-discovery-overview.html), [here](https://coreos.com/blog/performance-of-etcd.html) and [here](https://workmarket.tech/choosing-a-service-discovery-system-1979ee55c728).
+
 Communications among peers within Eureka server cluster is described [here](https://github.com/Netflix/eureka/wiki/Understanding-Eureka-Peer-to-Peer-Communication).
 
 
