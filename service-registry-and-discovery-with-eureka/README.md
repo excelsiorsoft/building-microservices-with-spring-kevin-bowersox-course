@@ -44,7 +44,9 @@ Client Side
 
 ![ ](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/eureka%20client.png)
 
-- Start Eureka Client:
+- Multi-service Architecture:
+
+
 
 - Observe the Dashboard:
 
