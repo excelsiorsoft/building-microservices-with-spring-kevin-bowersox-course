@@ -81,6 +81,8 @@ Client Side
 
 -------------------------
 
+# Extra Curriculum Reading
+
 Communications among peers within Eureka server cluster is described [here](https://github.com/Netflix/eureka/wiki/Understanding-Eureka-Peer-to-Peer-Communication).
 
 
