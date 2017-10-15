@@ -28,7 +28,7 @@ Running Redundant Eureka Servers:
 
 - Create run configurations:
 
-![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/ereka%20server%20profiles.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/ereka%20server%20profiles.PNG)
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/run%20configs.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/run%20configs.PNG)
 
 - Observe Dashboard for Both Replicas:
 
