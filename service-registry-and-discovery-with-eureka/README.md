@@ -40,6 +40,8 @@ Running Redundant Eureka Servers:
 Communications among peers within Eureka server cluster is described [here](https://github.com/Netflix/eureka/wiki/Understanding-Eureka-Peer-to-Peer-Communication).
 
 
+Configuring Spring Cloud Eureka on AWS is documented [here](https://stackoverflow.com/questions/42547845/spring-cloud-netflix-eureka-aws-deployment) and [here](https://www.slideshare.net/ToddMiller34/spring-cloud-into-production).
+
 Client Side
 ----------------
 
