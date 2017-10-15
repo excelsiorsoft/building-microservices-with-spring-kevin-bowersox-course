@@ -18,7 +18,7 @@ public class EurekaClientApplication {
 	@Autowired
 	private EurekaClient client;
 	
-	@RequestMapping("serviceInfo")
+	@RequestMapping("/serviceInfo")
 	public String serviceInfo() {
 		InstanceInfo info = client.getNextServerFromEureka("firstService", false);
 		return info.getHomePageUrl();
