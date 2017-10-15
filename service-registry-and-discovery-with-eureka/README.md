@@ -20,7 +20,7 @@
 	- Modify hosts file:
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/hosts.png](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/hosts.png)
-	
+				
 	- Enable Spring profiles:
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/ereka%20server%20profiles.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/ereka%20server%20profiles.PNG)
