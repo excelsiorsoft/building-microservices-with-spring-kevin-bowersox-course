@@ -37,10 +37,7 @@ Running Redundant Eureka Servers:
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/replica%20%232.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/replica%20%232.PNG)
 
-Communications among peers within Eureka server cluster is described [here](https://github.com/Netflix/eureka/wiki/Understanding-Eureka-Peer-to-Peer-Communication).
 
-
-Configuring Spring Cloud Eureka on AWS is documented [here](https://stackoverflow.com/questions/42547845/spring-cloud-netflix-eureka-aws-deployment) and [here](https://www.slideshare.net/ToddMiller34/spring-cloud-into-production).
 
 Client Side
 ----------------
@@ -81,6 +78,17 @@ Client Side
 - Hit /execute endpoint on Eureka-client:
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/eureka-rest-4.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/eureka-rest-4.PNG)
+
+-------------------------
+
+Communications among peers within Eureka server cluster is described [here](https://github.com/Netflix/eureka/wiki/Understanding-Eureka-Peer-to-Peer-Communication).
+
+
+Configuring Spring Cloud Eureka on AWS is documented [here](https://stackoverflow.com/questions/42547845/spring-cloud-netflix-eureka-aws-deployment) and [here](https://www.slideshare.net/ToddMiller34/spring-cloud-into-production).
+
+Eureka vs Zookeeper [comparison](https://tech.knewton.com/blog/2014/12/eureka-shouldnt-use-zookeeper-service-discovery/).
+
+
 
 
 
