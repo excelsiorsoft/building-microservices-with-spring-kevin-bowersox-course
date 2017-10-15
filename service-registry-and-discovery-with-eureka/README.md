@@ -15,6 +15,14 @@
 
 ![Access Eureka Dashboard](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/pristine%20Eureka%20server.PNG)
 
+- Running Redundant Eureka Servers
+
+	- Modify hosts file:
+	
+	- Enable Spring profiles:
+
+	- Create run configurations:
+
 ## Client Side
 ----------------
 
