@@ -18,7 +18,7 @@ Access Eureka Dashboard:
 ## Client Side
 ----------------
 
-Enagle Eureka Client:
+Enable Eureka Client:
 
 Start Eureka Client:
 
