@@ -50,6 +50,8 @@ Client Side
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/Inter-service%20dependency.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/Inter-service%20dependency.PNG)
 
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/eureka-client2-netflix-api.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/eureka-client2-netflix-api.PNG)
+
 - Observe the Dashboard:
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/multi-service%20dashboard.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/service-registry-and-discovery-with-eureka/multi-service%20dashboard.PNG)
