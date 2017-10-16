@@ -51,3 +51,5 @@ To enable Hystrix dashboard functionality (@EnableHystrixDashboard) within a pro
 			<artifactId>spring-cloud-starter-hystrix-dashboard</artifactId>
 		</dependency>
 ```
+
+A bit more details are [here](http://www.baeldung.com/spring-cloud-netflix-hystrix) and [here](https://fernandoabcampos.wordpress.com/category/enablehystrixdashboard/).
