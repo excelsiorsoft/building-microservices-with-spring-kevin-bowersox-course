@@ -1,4 +1,4 @@
-Load balancing with Ribbon
+# Load balancing with Ribbon
 
 Create 3 instances of the same service (simple-service2) running on 3 different ports: 4444, 5555, 6666:
 
