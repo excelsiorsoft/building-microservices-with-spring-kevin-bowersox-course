@@ -6,3 +6,4 @@ Create 3 instances of the same service (simple-service2) running on 3 different 
 
 Run the above configuration and invoke the services:
 
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/run%20and%20invoke.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/run%20and%20invoke.PNG)
