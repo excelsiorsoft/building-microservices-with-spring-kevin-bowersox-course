@@ -33,3 +33,5 @@ Absence of fault condition, circuit is closed again: ![closed:](https://github.c
 ```
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/timing.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/timing.PNG)
+
+A bit more explanation of the timeout behavior is given [here](https://stackoverflow.com/questions/38524259/hystrix-configuration).
