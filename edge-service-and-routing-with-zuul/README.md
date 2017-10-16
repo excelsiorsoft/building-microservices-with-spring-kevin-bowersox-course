@@ -40,6 +40,7 @@
 
 - and then invoking new version:
 
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/prefix-invocation.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/prefix-invocation.PNG)
 
 
 -------------------------
