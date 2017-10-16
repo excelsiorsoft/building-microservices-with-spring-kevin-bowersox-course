@@ -6,7 +6,7 @@ Create 3 instances of the same service (simple-service2) running on 3 different 
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/3%20instances.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/3%20instances.PNG)
 
-Provide the Ribbon client microservice with appropriate configurations (see its *application.properties* and *RibbonApplication.java* for details.
+Provide the Ribbon client microservice with appropriate configurations (see its *[application.properties](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-2.PNG)* and *[RibbonApplication.java](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-1.PNG)* for details.
 
 Start the 3 instances of *simple-service-2* via Eclipse run configurations specified above as well as *ribbon* client microservice and invoke the /startClient endpoint:
 
