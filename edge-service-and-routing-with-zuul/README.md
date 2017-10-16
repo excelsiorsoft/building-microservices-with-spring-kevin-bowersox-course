@@ -24,6 +24,14 @@
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-3.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-3.PNG)
 
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/reverse-proxy%20execution.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/reverse-proxy%20execution.PNG)
+
+- Another remapping:
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-4.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-4.PNG)
+
+
+
 -------------------------
 
 # Extra-curriculum Reading:
