@@ -39,11 +39,15 @@ A bit more explanation of the timeout behavior is given [here](https://stackover
 All the rest of the Hystrix configuration commands are found [here](https://github.com/Netflix/Hystrix/wiki/Configuration).
 
 
-To enable Hystrix dashboard functionality within a project, add the following to the pom.xml:
+To enable Hystrix dashboard functionality (@EnableHystrixDashboard) within a project, add the following to the pom.xml:
 
 ```
 		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+		<dependency>
 			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-hystrix</artifactId>
+			<artifactId>spring-cloud-starter-hystrix-dashboard</artifactId>
 		</dependency>
 ```

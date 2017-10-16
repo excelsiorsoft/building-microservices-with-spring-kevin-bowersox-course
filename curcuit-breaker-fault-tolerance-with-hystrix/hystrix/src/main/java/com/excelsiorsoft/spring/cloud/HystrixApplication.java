@@ -7,6 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
+import org.springframework.cloud.netflix.hystrix.EnableHystrix;
+import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboard;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -18,7 +20,9 @@ import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
 
 @SpringBootApplication
 @RestController
-@EnableCircuitBreaker
+//@EnableCircuitBreaker
+@EnableHystrix
+@EnableHystrixDashboard
 public class HystrixApplication {
 
 	@Bean
