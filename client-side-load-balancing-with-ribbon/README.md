@@ -8,9 +8,9 @@ Create 3 instances of the same service (simple-service2) running on 3 different 
 
 Provide the Ribbon client microservice with appropriate configurations (see its *application.properties* and *RibbonApplication.java* for details.
 
-[https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-1.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-1.PNG)
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-1.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-1.PNG)
 
-[https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-2.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-2.PNG)
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-2.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-2.PNG)
 
 Start the 3 instances of *simple-service-2* via Eclipse run configurations specified above as well as *ribbon* client microservice and invoke the /startClient endpoint:
 
