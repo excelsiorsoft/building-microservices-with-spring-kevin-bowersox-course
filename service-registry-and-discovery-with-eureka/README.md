@@ -1,5 +1,7 @@
 # Service Registry and Discovery with Eureka
 
+Use **Eureka** working set in Eclipse
+
 Server Side
 ----------------
 

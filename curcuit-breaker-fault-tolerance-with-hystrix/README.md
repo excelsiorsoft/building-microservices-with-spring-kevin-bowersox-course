@@ -1,5 +1,7 @@
 # Circuit Breaking, Fault Tolerance and Health Monitoring with Hystrix
 
+Use **Hystrix** working set in Eclipse
+
 - Start simple-service microservice project
 - Start hystrix microservice project
 
