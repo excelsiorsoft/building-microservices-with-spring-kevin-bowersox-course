@@ -43,7 +43,19 @@
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/prefix-invocation.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/prefix-invocation.PNG)
 
 - Adding Zuul Router Filter
-- 
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/add-filter-1.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/add-filter-1.PNG)
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/add-filter-2.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/add-filter-2.PNG)
+
+- and then observe its execution:
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/prefix-invocation.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/prefix-invocation.PNG)
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/filter-execution-1.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/filter-execution-1.PNG)
+
+
+
 -------------------------
 
 # Extra-curriculum Reading:
