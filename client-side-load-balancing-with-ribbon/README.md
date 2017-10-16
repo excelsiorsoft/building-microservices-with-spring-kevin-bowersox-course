@@ -12,7 +12,7 @@ Provide the Ribbon client microservice with appropriate configurations (see its 
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-2.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/ribbon-client-config-2.PNG)
 
-Start the 3 instances of *simple-service-2* via Eclipse run configurations specified above as well as *ribbon* client microservice and invoke the /startClient endpoint:
+Start the 3 instances of *simple-service-2* via Eclipse run configurations specified above as well as *ribbon* client microservice and invoke the /startClient endpoint.  We can see the request is being load-balanced across 3 microservice instances of *simple-service-2*:
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/run%20and%20invoke.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/run%20and%20invoke.PNG)
 
