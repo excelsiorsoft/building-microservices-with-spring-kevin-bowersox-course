@@ -15,3 +15,5 @@ Provide the Ribbon client microservice with appropriate configurations (see its 
 Start the 3 instances of *simple-service-2* via Eclipse run configurations specified above as well as *ribbon* client microservice and invoke the /startClient endpoint:
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/run%20and%20invoke.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/client-side-load-balancing-with-ribbon/run%20and%20invoke.PNG)
+
+A bit more samples on Spring Cloud with Ribbon is [here](https://spring.io/guides/gs/client-side-load-balancing/).
