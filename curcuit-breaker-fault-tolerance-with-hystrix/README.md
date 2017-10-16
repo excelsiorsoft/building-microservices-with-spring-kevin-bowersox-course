@@ -53,3 +53,15 @@ To enable Hystrix dashboard functionality (@EnableHystrixDashboard) within a pro
 ```
 
 A bit more details on Hystrix & dashboarding are [here](http://www.baeldung.com/spring-cloud-netflix-hystrix) and [here](https://fernandoabcampos.wordpress.com/category/enablehystrixdashboard/).
+
+Playing with Hystrix Dashboard:
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/hystrix-stream-1.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/hystrix-stream-1.PNG)
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/hystrix-stream-2.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/hystrix-stream-2.PNG)
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/hystrix-stream-3.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/hystrix-stream-3.PNG)
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/hystrix-stream-4.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/hystrix-stream-4.PNG)
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/hystrix-stream-5.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/curcuit-breaker-fault-tolerance-with-hystrix/hystrix-stream-5.PNG)
