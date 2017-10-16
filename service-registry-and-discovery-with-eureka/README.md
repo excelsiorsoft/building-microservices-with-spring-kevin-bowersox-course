@@ -1,6 +1,6 @@
 # Service Registry and Discovery with Eureka
 
-Use **Eureka** working set in Eclipse
+**Eureka** working set in Eclipse contains all relevant projects.
 
 Server Side
 ----------------
