@@ -19,6 +19,11 @@
 - Execute via Zuul Reverse Proxy: 
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/reverse-proxy%20execution.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/reverse-proxy%20execution.PNG)
+
+- Or with more explicit path configuration:
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-3.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-3.PNG)
+
 -------------------------
 
 # Extra-curriculum Reading:
