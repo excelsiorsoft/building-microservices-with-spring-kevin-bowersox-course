@@ -42,9 +42,8 @@ All the rest of the Hystrix configuration commands are found [here](https://gith
 To enable Hystrix dashboard functionality within a project, add the following to the pom.xml:
 
 ```
-<dependency>
+		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-hystrix</artifactId>
 		</dependency>
->```
->
+```
