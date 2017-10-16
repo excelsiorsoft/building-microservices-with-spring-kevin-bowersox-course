@@ -26,4 +26,4 @@ Authorization and Web Security Configuration for Spring:
 
 - oauth-server project
 
-
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/add-resource-server.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/add-resource-server.PNG)
