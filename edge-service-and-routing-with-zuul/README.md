@@ -2,15 +2,15 @@
 
 **Zuul** working set in Eclipse contains all relevant projects.
 
-Microservice configuration:
+- Microservice configuration:
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/service-config.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/service-config.PNG)
 
-Executing microservice directly: 
+- Executing microservice directly: 
 
 ![directly](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/direct%20execution.PNG)
 
-Now, configure Zuul Reverse Proxy:
+- Now, configure Zuul Reverse Proxy:
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-1.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-1.PNG)
 
