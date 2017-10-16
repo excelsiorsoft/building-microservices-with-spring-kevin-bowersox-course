@@ -10,6 +10,11 @@ Executing microservice directly:
 
 ![directly](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/direct%20execution.PNG)
 
+Now, configure Zuul Reverse Proxy:
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-1.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-1.PNG)
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-2.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/edge-service-and-routing-with-zuul/configure-2.PNG)
 -------------------------
 
 # Extra-curriculum Reading:
