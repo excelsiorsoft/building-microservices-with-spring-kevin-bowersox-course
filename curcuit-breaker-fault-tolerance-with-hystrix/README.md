@@ -1,2 +1,2 @@
-# Circuit Breaking and Monitoring with Hystrix
+# Circuit Breaking, Fault Tolerance and Health Monitoring with Hystrix
 

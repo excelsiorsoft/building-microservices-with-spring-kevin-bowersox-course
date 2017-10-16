@@ -40,3 +40,4 @@ target/
 *.launch
 *.bat
 
+/.recommenders/
