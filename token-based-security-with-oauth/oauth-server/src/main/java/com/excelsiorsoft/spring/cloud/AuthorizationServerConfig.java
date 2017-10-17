@@ -23,5 +23,7 @@ public class AuthorizationServerConfig extends AuthorizationServerConfigurerAdap
 		clients.inMemory().withClient("webapp").secret("websecret").authorizedGrantTypes("password")
 				.scopes("read,write,trust");
 	}
+	
+	
 
 }
