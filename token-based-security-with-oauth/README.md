@@ -36,3 +36,7 @@ or in curl:
 
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/resource-acuisition-2.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/resource-acuisition-2.PNG)
+
+Resource Server accepts access token issued by the Authentication Server due to the relationship between the 2 servers within out OAuth authentication scheme.
+
+
