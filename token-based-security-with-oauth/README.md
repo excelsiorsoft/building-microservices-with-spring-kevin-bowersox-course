@@ -43,8 +43,16 @@ Thus, Resource Server accepts access token issued by the Authentication Server d
 
 # We can protect the endpoint  (via @EnableGlobalMethodSecurity) by discerning who is able to access it:
 
+- configure endpoint protection by only allowing it to be accessed by 'ADMIN' role
+
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/global-method-protection.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/global-method-protection.PNG)
 
+
+- add an admin user:
+
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/add-amin-user.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/add-amin-user.PNG)
+
+After server restart only the admin user is allowed to access the resource:
 
 
 
