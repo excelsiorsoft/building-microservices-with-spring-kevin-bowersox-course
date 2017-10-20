@@ -43,7 +43,7 @@ Thus, Resource Server accepts access token issued by the Authentication Server d
 
 # We can protect the endpoint  (via @EnableGlobalMethodSecurity) by discerning who is able to access it:
 
-
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/global-method-protection.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/global-method-protection.PNG)
 
 
 
