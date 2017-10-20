@@ -54,5 +54,7 @@ Thus, Resource Server accepts access token issued by the Authentication Server d
 
 After server restart only the admin user is allowed to access the resource:
 
+- regular user is denied restricted access:
 
+![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/regular-user-denied-restricted-access.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/regular-user-denied-restricted-access.PNG)
 
