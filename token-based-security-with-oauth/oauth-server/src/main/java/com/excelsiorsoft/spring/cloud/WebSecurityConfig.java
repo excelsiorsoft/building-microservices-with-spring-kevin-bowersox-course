@@ -12,7 +12,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
 	@Bean
 	public AuthenticationManager authenticationManagerBean() throws Exception {
-		return super.authenticationManager();		
+		return super.authenticationManager();	
 	}
 
 	@Override
@@ -20,7 +20,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 		auth.inMemoryAuthentication().withUser("user1").password("password1").roles("USER");
 	}
 	
-	@Override
+@Override
     protected void configure(HttpSecurity http) throws Exception {
         http
             .authorizeRequests().antMatchers("/**").permitAll().and()
@@ -28,6 +28,6 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
             .authorizeRequests()
                 .anyRequest().hasRole("USER");
         // ... more configuration, e.g. for form login
-    }
-	
+   }
+ 	
 }

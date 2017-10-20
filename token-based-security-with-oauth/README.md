@@ -24,7 +24,7 @@ Authorization and Web Security Configuration for Spring:
 
 # Establish a Resource Server
 
-- oauth-server project
+- oauth-server project (via @EnableResourceServer)
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/config-resource-server.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/config-resource-server.PNG)
 
@@ -37,6 +37,14 @@ or in curl:
 
 ![https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/resource-acuisition-2.PNG](https://github.com/excelsiorsoft/building-microservices-with-spring-kevin-bowersox-course/blob/master/token-based-security-with-oauth/resource-acuisition-2.PNG)
 
-Resource Server accepts access token issued by the Authentication Server due to the relationship between the 2 servers within out OAuth authentication scheme.
+Thus, Resource Server accepts access token issued by the Authentication Server due to the relationship between the 2 servers within out OAuth authentication scheme.
+
+---
+
+# We can protect the endpoint  (via @EnableGlobalMethodSecurity) by discerning who is able to access it:
+
+
+
+
 
 
