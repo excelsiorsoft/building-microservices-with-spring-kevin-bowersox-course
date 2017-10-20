@@ -4,7 +4,7 @@
 
 # Establish an Authorization Server
 
-- oauth-server project
+- oauth-server project (via @EnableAuthorizationServer)
 
 Authorization and Web Security Configuration for Spring:
 
