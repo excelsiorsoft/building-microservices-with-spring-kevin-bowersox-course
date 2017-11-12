@@ -1,4 +1,4 @@
-# building-microservices-with-spring-kevin-bowersox-course
+# building-microservices-with-spring-kevin-bowersox-course 
 
 This repo is a playground for the Kevin Bowersox Course: [Building Microservices with Spring](https://www.safaribooksonline.com/library/view/building-microservices-with/9781491977101/).
 
